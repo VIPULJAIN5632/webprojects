@@ -1,12 +1,12 @@
 const Sequelize = require('sequelize');
 
 const db = new Sequelize(
-    'netflixdb',
-    'netflixuser',
-    'netflixpass',
+    'sql12303737',
+    'sql12303737',
+    'Ne3gN5vWf5',
     {
         dialect: 'mysql',
-        host: 'localhost'
+        host: 'sql12.freemysqlhosting.net'
     }
 )
 
